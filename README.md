@@ -78,7 +78,7 @@ O layout da aplicação está disponível no Figma:
 Este projeto é divido em três partes:
 1. Backend (pasta server) <a href="https://github.com/RodrigoJuniorLiyah/Happy--Backend/archive/master.zip">baixe aqui</a>
 2. Frontend (pasta web) <a href="https://github.com/RodrigoJuniorLiyah/Happy--Web---Rocketseat/archive/master.zip">baixe aqui</a>
-3. Mobile (pasta mobile) <a href="https://github.com/RodrigoJuniorLiyah/Happy--Mobile---Rocketseat/archive/main.zip">baixe aqui</a>
+3. Mobile (pasta mobile) <a href="https://github.corem/RodrigoJuniorLiyah/Happy--Mobile---Rocketseat/archive/master.zip">baixe aqui</a>
 
 💡Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
 
