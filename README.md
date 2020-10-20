@@ -64,11 +64,11 @@ O layout da aplicação está disponível no Figma:
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;flex-direction: column">
 <img alt="mapa" title="mapa Happy" src="./assets/mapa.jpg">
-<img alt="cadastro" title="cadastro Happy" src="./assets/cadastro.jpg">
-<img alt="NLW" title="#NextLevelWeek" src="./assets/resultsmap.jpg">
-<img alt="mapa" title="mapa Happy" src="./assets/namemaps.jpg">
-<img alt="mapa" title="mapa Happy" src="./assets/orfanatoheader.jgp">
-<img alt="mapa" title="mapa Happy" src="./assets/orfanato.jgp">
+<img alt="cadastro" title="cadastro Happy" src="./assets/cadastro.jpg" height="400">
+<img alt="NLW" title="#NextLevelWeek" src="./assets/resultsmap.jpg" height="400">
+<img alt="mapa" title="mapa Happy" src="./assets/namemaps.jpg" height="400">
+<img alt="mapa" title="mapa Happy" src="./assets/orfanatoheader.jpg" height="400">
+<img alt="mapa" title="mapa Happy" src="./assets/orfanato.jpg" height="400">
 </p>
 
 ---
@@ -76,7 +76,7 @@ O layout da aplicação está disponível no Figma:
 ## 🚀 Como executar o projeto
 
 Este projeto é divido em três partes:
-1. Backend (pasta server) <a href="/">baixe aqui</a>
+1. Backend (pasta server) <a href="https://github.com/RodrigoJuniorLiyah/Happy--Backend/archive/master.zip">baixe aqui</a>
 2. Frontend (pasta web) <a href="https://github.com/RodrigoJuniorLiyah/Happy--Web---Rocketseat/archive/master.zip">baixe aqui</a>
 3. Mobile (pasta mobile) <a href="https://github.com/RodrigoJuniorLiyah/Happy--Mobile---Rocketseat/archive/main.zip">baixe aqui</a>
 
