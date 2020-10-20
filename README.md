@@ -63,7 +63,7 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;flex-direction: column">
-<img alt="mapa" title="mapa Happy" src="./assets/mapa.jpg">
+<img alt="mapa" title="mapa Happy" src="./assets/mapa.jpg" height="400">
 <img alt="cadastro" title="cadastro Happy" src="./assets/cadastro.jpg" height="400">
 <img alt="NLW" title="#NextLevelWeek" src="./assets/resultsmap.jpg" height="400">
 <img alt="mapa" title="mapa Happy" src="./assets/namemaps.jpg" height="400">
